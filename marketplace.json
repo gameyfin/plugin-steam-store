@@ -1,0 +1,14 @@
+{
+  "id": "org.gameyfin.plugins.store.steam",
+  "name": "Steam Store",
+  "description": "Looks up Steam products and lists their DLC.<br>Uses the official store.steampowered.com endpoints.",
+  "provider": "grimsi",
+  "license": "MIT",
+  "projectUrl": "https://github.com/gameyfin/plugin-steam-store",
+  "types": [
+    "GameStoreProvider"
+  ],
+  "maintainers": [
+    "grimsi"
+  ]
+}

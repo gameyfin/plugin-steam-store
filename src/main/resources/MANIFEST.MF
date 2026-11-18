@@ -1,4 +1,4 @@
-Plugin-Version: 1.0.0
+Plugin-Version: 1.0.1
 Plugin-Class: org.gameyfin.plugins.store.steam.SteamStorePlugin
 Plugin-Id: org.gameyfin.plugins.store.steam
 Plugin-Name: Steam Store
@@ -7,4 +7,5 @@ Plugin-Description: Looks up Steam products and lists their DLC.<br>
 Plugin-Short-Description: Steam DLC and catalog search
 Plugin-Author: grimsi
 Plugin-License: MIT
-Plugin-Url: https://github.com/gameyfin
+Plugin-Url: https://github.com/gameyfin/plugin-steam-store
+Plugin-Requires: >=2.7.0
